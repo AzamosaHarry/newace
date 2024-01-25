@@ -4319,10 +4319,11 @@ ul {
 .project-one__content {
   position: relative;
   display: block;
-  padding: 30px 40px 35px;
+  padding: 10px 20px 5px;
   background-color: #fcf9fa;
   clip-path: polygon(0 0,  0, 100% 100%, 0% 100%);
   z-index: 2;
+  opacity: .8;
 }
 
 .project-one__content::before {
